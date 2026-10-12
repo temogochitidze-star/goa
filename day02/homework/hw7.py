@@ -1,0 +1,12 @@
+#print(hello)
+print("hello")
+#print("hell)"
+print("hell")
+#prit("hello(
+print("hello")
+#sd("hello")
+print("hello")
+#prnt)"hello)
+print("hello")
+#print("hello"
+print("hello")
