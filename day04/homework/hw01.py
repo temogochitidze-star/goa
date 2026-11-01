@@ -1,0 +1,10 @@
+ test1 = "12"
+test2 = 24
+test3 = "luka"
+test4  = 24.1
+test5 = "luk2323a"
+test6 = 1.2
+test7 = 14
+test8 = "goa"
+test9 = 13
+test10 = 13.1 
