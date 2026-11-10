@@ -1,1 +1,3 @@
-my_fav_car="tesla roadster"
+name="davit"
+surname="gochitidz"
+print ("სალამი მე  ვარ" + name + surname)

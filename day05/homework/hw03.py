@@ -1,0 +1,15 @@
+test11 = 1311341214#int
+test12 = 15.1#flooad
+test13 = "abv"#str
+test14= 14.3#flooad
+test15 = 13#int
+test16 = 1.2#flooad
+test17 = "1.2"#str
+test18 = 1.24#flooad
+test19 = 2#int
+test20 = "ioane"#str
+test21 = 3#int
+test22 = 4.3#flooad
+test23 = "13"#str
+test24 = 1#int
+test25 = 4#int

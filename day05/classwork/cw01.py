@@ -1,0 +1,10 @@
+test1 = "12"#str
+test2 = 24#int
+test3 = "luka"#str
+test4  = 24.1#flooad
+test5 = "luk2323a"#str
+test6 = 1.2#flooad
+test7 = 14#int
+test8 = "goa"#str
+test9 = 13#int
+test10 = 13.1#flooad
